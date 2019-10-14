@@ -3,7 +3,7 @@
  */
 package com.gsu.sheerin;
 /**
- * @author mansoor.m
+ * @author Sheerin Mansoor
  *
  */
 
